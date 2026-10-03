@@ -11,7 +11,7 @@ files:
           offset: 53
         initialized_from_dependency: false
         encrypted_possible_answer: S5JYGxp3HJzq0U/GqmMfNhRpJipkCz9Dosrfb+TwZ2k=
-        selected: false
+        selected: true
         status: Unchecked
       - offset: 110
         length: 6
